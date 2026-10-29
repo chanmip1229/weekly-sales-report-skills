@@ -6,7 +6,7 @@
 
 ### Claude Code (플러그인 마켓플레이스)
 ```
-/plugin marketplace add chanmip1229/weekly-sales-report-skill
+/plugin marketplace add chanmip1229/weekly-sales-report-skills
 /plugin install weekly-sales-report@chanmip-skills
 ```
 

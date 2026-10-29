@@ -1,0 +1,19 @@
+{
+  "name": "chanmip-skills",
+  "owner": {
+    "name": "chanmip1229"
+  },
+  "metadata": {
+    "description": "구글 시트 판매 데이터로 주간 매출 리포트를 만들어 슬랙에 게시하는 스킬 모음",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "weekly-sales-report",
+      "source": "./plugins/weekly-sales-report",
+      "description": "구글 시트 '판매관리'의 지난주 판매내역으로 주간 매출 리포트를 만들어 슬랙 채널 스레드에 게시합니다.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
